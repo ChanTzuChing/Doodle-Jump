@@ -1,5 +1,6 @@
 # Doodle-Jump
-就是Doodle Jump遊戲
+## 介紹
+https://doodlejumpsky.fandom.com/wiki/Doodle_Jump_(game)
 ## 功能
 * 有綠、藍、紅跳板(綠色正常、藍色會移動、紅色會破掉)
 * 有彈簧(會跳特別高)
